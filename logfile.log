@@ -1,0 +1,12 @@
+2023-01-04 12:59:07,122 INFO preprocess done
+2023-01-04 12:59:07,124 INFO converted text into numbers
+2023-01-04 12:59:07,415 INFO prediction value is [0.39008585]
+2023-01-04 12:59:07,415 INFO text is not cyber security tweets
+2023-01-04 12:59:07,415 INFO finished time is 13026.287924908-13024.26583791
+2023-01-09 11:31:43,644 INFO preprocess done
+2023-01-09 11:32:25,038 INFO preprocess done
+2023-01-09 11:35:54,807 INFO preprocess done
+2023-01-09 11:37:02,042 INFO preprocess done
+2023-01-09 11:39:30,928 INFO preprocess done
+2023-01-09 11:40:05,686 INFO preprocess done
+2023-01-09 11:41:06,467 INFO preprocess done
